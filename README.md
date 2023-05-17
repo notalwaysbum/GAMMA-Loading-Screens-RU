@@ -8,7 +8,7 @@ Made by:
 
 > Valdar / valdarkwall#1847
 
-> Saintmuka / saintmuka#5014
+> c4ff0e / saintmuka#5014
 
 ## Links
 1. [Stalker GAMMA Github](https://github.com/Grokitach/Stalker_GAMMA)
