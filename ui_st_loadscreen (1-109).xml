@@ -50,10 +50,10 @@
 		<text>Минеральную вода намного легче, чем фляги, и больше подходит для ношения в рюкзаке. Используйте фляги для приготовления еды из мутантов, которая намного лучше чем импортные товары.</text>
 	</string>
 	<string id="ls_tip_15">
-		<text>"Привет, Сталкер, ты здесь новенький, да? Никаких мощных патронов для тебя, мы тебе не доверяем... Я погляжу, у тебя дедовский ППШ? Держи пачку 7.62x25, но это всё что ты получишь на сегодня. А теперь вперёд убивать мутантов и делать зону безопаснее!" - Полковник Петренко</text>
+		<text>НАЗАМЕНУ "Привет, Сталкер, ты здесь новенький, да? Никаких мощных патронов для тебя, мы тебе не доверяем... Я погляжу, у тебя дедовский ППШ? Держи пачку 7.62x25, но это всё что ты получишь на сегодня. А теперь вперёд убивать мутантов и делать зону безопаснее!" - Полковник Петренко</text>
 	</string>
 	<string id="ls_tip_16">
-		<text>"What the hell do you mean there's no coffee?! You're telling me that we can import gallons of vodka, beer, sparkling water and energy drinks, but I can't get some fucking coffee beans in this God forsaken place?"
+		<text>НАЗАМЕНУ "What the hell do you mean there's no coffee?! You're telling me that we can import gallons of vodka, beer, sparkling water and energy drinks, but I can't get some fucking coffee beans in this God forsaken place?"
         <message>(такая же подсказка есть в нынешних кринжовых подсказках. предлагаю заменить её на какой-то совет по геймплею, например:
         Для того чтобы пользоваться установленным на оружие ЛЦУ зажмите L
         Чтобы переключить оптику и гранатомёт нажмите V)</message>
